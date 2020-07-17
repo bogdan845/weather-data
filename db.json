@@ -4,29 +4,29 @@
     "Sunday": [
       {
         "time": "morning",
-        "temp": "+20",
-        "wind": "S 10 mph",
+        "temp": "+ 22",
+        "wind": "SE 2.5 mph",
         "wet": "35%",
-        "wea": "thunder"
+        "wea": "sun"
       },
       {
         "time": "day",
-        "temp": "+27",
-        "wind": "S 35 mph",
+        "temp": "+ 27",
+        "wind": "SE 3.2 mph",
         "wet": "15%",
         "wea": "rain"
       },
       {
         "time": "evening",
-        "temp": "+18",
-        "wind": "S 15 mph",
+        "temp": "+ 22",
+        "wind": "S 1.9 mph",
         "wet": "10%",
-        "wea": "snow"
+        "wea": "cloud"
       },
       {
         "time": "night",
-        "temp": "+15",
-        "wind": "S 5 mph",
+        "temp": "+ 15",
+        "wind": "N 2.1 mph",
         "wet": "10%",
         "wea": "moon"
       }
@@ -34,28 +34,28 @@
     "Monday": [
       {
         "time": "morning",
-        "temp": "+ 20",
-        "wind": "S 10 mph",
+        "temp": "+ 23",
+        "wind": "N 1.6 mph",
         "wet": "35%",
-        "wea": "sun"
+        "wea": "cloud"
       },
       {
         "time": "day",
         "temp": "+ 27",
-        "wind": "S 35 mph",
+        "wind": "N 1.6 mph",
         "wet": "15%",
         "wea": "rain"
       },
       {
         "time": "evening",
-        "temp": "+ 18",
-        "wind": "S 15 mph",
+        "temp": "+ 24",
+        "wind": "N 1.5 mph",
         "wet": "10%",
         "wea": "thunder"
       },
       {
         "time": "night",
-        "temp": "+ 15",
+        "temp": "+ 16",
         "wind": "S 5 mph",
         "wet": "10%",
         "wea": "moon"
@@ -65,30 +65,30 @@
       {
         "time": "morning",
         "temp": "+ 15",
-        "wind": "NW 6.1 mph",
+        "wind": "NW 2.1 mph",
         "wet": "35%",
         "wea": "sun"
       },
       {
         "time": "day",
-        "temp": "+ 14",
+        "temp": "+ 24",
         "wind": "NW 4 mph",
         "wet": "97%",
         "wea": "rain"
       },
       {
         "time": "evening",
-        "temp": "+ 15",
+        "temp": "+ 20",
         "wind": "S 6.7 mph",
         "wet": "10%",
-        "wea": "rain"
+        "wea": "snow"
       },
       {
         "time": "night",
         "temp": "+ 15",
         "wind": "NW 5.1 mph",
         "wet": "10%",
-        "wea": "rain"
+        "wea": "thunder"
       }
     ],
     "Wednesday": [
@@ -101,15 +101,15 @@
       },
       {
         "time": "day",
-        "temp": "+ 22",
-        "wind": "W 35 mph",
+        "temp": "+ 32",
+        "wind": "W 3.5 mph",
         "wet": "15%",
-        "wea": "rain"
+        "wea": "sun"
       },
       {
         "time": "evening",
-        "temp": "+ 22",
-        "wind": "NW 15 mph",
+        "temp": "+ 28",
+        "wind": "NW 1.5 mph",
         "wet": "10%",
         "wea": "cloud"
       },
@@ -132,14 +132,14 @@
       {
         "time": "day",
         "temp": "+ 27",
-        "wind": "S 35 mph",
+        "wind": "S 3.5 mph",
         "wet": "15%",
         "wea": "thunder"
       },
       {
         "time": "evening",
         "temp": "+ 18",
-        "wind": "S 15 mph",
+        "wind": "S 1.5 mph",
         "wet": "10%",
         "wea": "snow"
       },
@@ -148,28 +148,28 @@
         "temp": "+ 15",
         "wind": "S 5 mph",
         "wet": "10%",
-        "wea": "moon"
+        "wea": "rain"
       }
     ],
     "Friday": [
       {
         "time": "morning",
         "temp": "+ 20",
-        "wind": "S 10 mph",
+        "wind": "S 1 mph",
         "wet": "35%",
         "wea": "thunder"
       },
       {
         "time": "day",
         "temp": "+ 27",
-        "wind": "S 35 mph",
+        "wind": "S 3.5 mph",
         "wet": "15%",
         "wea": "rain"
       },
       {
         "time": "evening",
         "temp": "+ 18",
-        "wind": "S 15 mph",
+        "wind": "S 1.5 mph",
         "wet": "10%",
         "wea": "snow"
       },
@@ -192,14 +192,14 @@
       {
         "time": "day",
         "temp": "+ 27",
-        "wind": "S 35 mph",
+        "wind": "S 3.5 mph",
         "wet": "15%",
         "wea": "rain"
       },
       {
         "time": "evening",
         "temp": "+ 18",
-        "wind": "S 15 mph",
+        "wind": "S 1.5 mph",
         "wet": "10%",
         "wea": "snow"
       },
@@ -217,45 +217,15 @@
     "Sunday": [
       {
         "time": "morning",
-        "temp": "+20",
+        "temp": "+ 20",
         "wind": "S 10 mph",
         "wet": "35%",
         "wea": "thunder"
       },
       {
         "time": "day",
-        "temp": "+27",
-        "wind": "S 35 mph",
-        "wet": "15%",
-        "wea": "rain"
-      },
-      {
-        "time": "evening",
-        "temp": "+18",
-        "wind": "S 15 mph",
-        "wet": "10%",
-        "wea": "snow"
-      },
-      {
-        "time": "night",
-        "temp": "+15",
-        "wind": "S 5 mph",
-        "wet": "10%",
-        "wea": "moon"
-      }
-    ],
-    "Monday": [
-      {
-        "time": "morning",
-        "temp": "+ 20",
-        "wind": "S 10 mph",
-        "wet": "35%",
-        "wea": "sun"
-      },
-      {
-        "time": "day",
         "temp": "+ 27",
-        "wind": "S 35 mph",
+        "wind": "S 3.5 mph",
         "wet": "15%",
         "wea": "rain"
       },
@@ -264,11 +234,41 @@
         "temp": "+ 18",
         "wind": "S 15 mph",
         "wet": "10%",
-        "wea": "thunder"
+        "wea": "snow"
       },
       {
         "time": "night",
         "temp": "+ 15",
+        "wind": "S 5 mph",
+        "wet": "10%",
+        "wea": "moon"
+      }
+    ],
+    "Monday": [
+      {
+        "time": "morning",
+        "temp": "+ 27",
+        "wind": "S 10 mph",
+        "wet": "35%",
+        "wea": "sun"
+      },
+      {
+        "time": "day",
+        "temp": "+ 37",
+        "wind": "S 35 mph",
+        "wet": "15%",
+        "wea": "rain"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 27",
+        "wind": "S 1.5 mph",
+        "wet": "10%",
+        "wea": "thunder"
+      },
+      {
+        "time": "night",
+        "temp": "+ 25",
         "wind": "S 5 mph",
         "wet": "10%",
         "wea": "moon"
@@ -284,7 +284,7 @@
       },
       {
         "time": "day",
-        "temp": "+ 14",
+        "temp": "+ 18",
         "wind": "NW 4 mph",
         "wet": "97%",
         "wea": "rain"
@@ -298,7 +298,7 @@
       },
       {
         "time": "night",
-        "temp": "+ 15",
+        "temp": "+ 10",
         "wind": "NW 5.1 mph",
         "wet": "10%",
         "wea": "moon"
@@ -310,12 +310,12 @@
         "temp": "+ 22",
         "wind": "N 2 mph",
         "wet": "35%",
-        "wea": "thunder"
+        "wea": "sun"
       },
       {
         "time": "day",
-        "temp": "+ 22",
-        "wind": "W 35 mph",
+        "temp": "+ 32",
+        "wind": "W 3.5 mph",
         "wet": "15%",
         "wea": "cloud"
       },
@@ -328,7 +328,7 @@
       },
       {
         "time": "night",
-        "temp": "+ 22",
+        "temp": "+ 18",
         "wind": "W 5 mph",
         "wet": "10%",
         "wea": "moon"
@@ -351,17 +351,17 @@
       },
       {
         "time": "evening",
-        "temp": "+ 18",
+        "temp": "+ 32",
         "wind": "S 15 mph",
         "wet": "10%",
-        "wea": "snow"
+        "wea": "rain"
       },
       {
         "time": "night",
-        "temp": "+ 15",
+        "temp": "+ 20",
         "wind": "S 5 mph",
         "wet": "10%",
-        "wea": "moon"
+        "wea": "snow"
       }
     ],
     "Friday": [
@@ -370,19 +370,19 @@
         "temp": "+ 20",
         "wind": "S 10 mph",
         "wet": "35%",
-        "wea": "thunder"
+        "wea": "sun"
       },
       {
         "time": "day",
         "temp": "+ 27",
         "wind": "S 35 mph",
         "wet": "15%",
-        "wea": "rain"
+        "wea": "cloud"
       },
       {
         "time": "evening",
-        "temp": "+ 18",
-        "wind": "S 15 mph",
+        "temp": "+ 22",
+        "wind": "S 1.5 mph",
         "wet": "10%",
         "wea": "snow"
       },
@@ -397,7 +397,7 @@
     "Saturday": [
       {
         "time": "morning",
-        "temp": "+ 20",
+        "temp": "+ 15",
         "wind": "S 10 mph",
         "wet": "35%",
         "wea": "thunder"
@@ -411,14 +411,14 @@
       },
       {
         "time": "evening",
-        "temp": "+ 18",
+        "temp": "+ 22",
         "wind": "S 15 mph",
         "wet": "10%",
         "wea": "snow"
       },
       {
         "time": "night",
-        "temp": "+ 15",
+        "temp": "+ 18",
         "wind": "S 5 mph",
         "wet": "10%",
         "wea": "moon"
